@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {DialogContent, DialogOverlay} from "@reach/dialog";
-import {animated, useTransition} from '@react-spring/web'
+import {animated, useTransition} from '@react-spring/web';
 
 import "@reach/dialog/styles.css";
 
