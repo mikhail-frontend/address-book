@@ -1,0 +1,10 @@
+th {
+    user-select: none;
+    cursor: pointer;
+}
+.fa-solid.fa-arrow-down{
+    transition: .2s linear;
+}
+.fa-solid.fa-arrow-down.rotated{
+    transform: rotate(180deg);
+}
